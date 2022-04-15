@@ -1,5 +1,7 @@
 export default function Header () {
     return(
-        <h1>Hello from Header</h1>
+        <div className="app-header">
+            <h1>Bozorlik</h1>
+        </div>
     )
 }
